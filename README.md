@@ -13,4 +13,5 @@
 ●  사용라이브러리, 분석 방법론 :       
 Python - pandas, scilkit-learn, matplotlib. selenium., bs4       
 방법론 : 상관관계 및 회귀분석, 예측분석, sns 크롤링      
+![홈페이지 메인](https://user-images.githubusercontent.com/63627288/89479751-8b635880-d7ce-11ea-9519-e4bdec9d09fe.PNG)
 
